@@ -1,0 +1,5 @@
+{
+  "name": "ChronoVisor",
+  "description": "A high-fidelity temporal simulation engine powered by Gemini. Explore any era, visualize the environment, and converse with the inhabitants of time.",
+  "requestFramePermissions": []
+}
